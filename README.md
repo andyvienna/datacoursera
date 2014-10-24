@@ -4,7 +4,9 @@ Getting and cleaning data project
 Containing the following files:
 
 run_analysis.r : R script for generating project output in tidy form
+
 codebook.md : The codebook for the data
+
 readme.md : This file
 
 The R script
